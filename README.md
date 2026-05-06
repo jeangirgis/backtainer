@@ -2,6 +2,8 @@
 
 A lightweight, self-hosted companion for Portainer that provides automated and on-demand backups for your Docker stacks and volumes, complete with a beautiful UI.
 
+![Backtainer](Backtainer.png)
+
 ## ✨ Features
 
 - **Automated Stack Backups:** Export `docker-compose.yml` and environment variables directly from the Portainer API.
